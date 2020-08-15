@@ -1,17 +1,31 @@
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <img width="450" height="224" img align="left" alt="Fredhiis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lperezcas16&theme=vue&show_icons=true&hide_border=true&count_private=true&hide=issues" class="responsive" />
+    </div>
+    <br/>
+  <img align='center'   width="350" src="https://github-readme-stats.vercel.app/api?username=lperezcas16&show_icons=true&title_color=0FE899&icon_color=7C00DD&text_color=9f9f9f&bg_color=151515"></div>
+  <div style="display: inline-block;">
+  <a href="https://github.com/ashwanisng">
+  <img align="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lperezcas16&theme=radical&hide=glsl,python=true&title_color=0FE899&icon_color=7C00DD&text_color=9f9f9f&bg_color=151515" />
+</a>
+  <img width="350" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredhii&theme=vue&layout=compact&hide_border=true&count_private=true" class="responsive"/>
+    </div>
+</div>
+<br/>
+
 
 <a href="https://github.com/ashwanisng">
-  <img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lperezcas16&theme=radical&hide=glsl,python=true&title_color=0FE899&icon_color=7C00DD&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lperezcas16&theme=radical&hide=glsl,python=true&title_color=0FE899&icon_color=7C00DD&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<img align='center'   width="350" src="https://github-readme-stats.vercel.app/api?username=lperezcas16&show_icons=true&title_color=0FE899&icon_color=7C00DD&text_color=9f9f9f&bg_color=151515"></div>
 
 ---
 
 <!-- conect with me -->
-<div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+<div  align="center">
+  <h3  align="right">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
-<p align="center">
+<p align="right">
 <!-- gmail-->
  <a href="mailto:lau.manu2@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <!-- github -->
@@ -25,10 +39,6 @@
 <!-- instagram -->
 <a href="https://www.instagram.com/captivatingracer"><img src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
 </p>
-
-
-
-
   
 
 
