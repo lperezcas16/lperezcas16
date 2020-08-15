@@ -1,7 +1,17 @@
-### Hi there 👋
 
 
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #EC0C42; -moz-column-rule: 1px dotted #EC0C42; column-rule: 1px dotted #7C00DD;">
+    <div style="display: inline-block;">
+    <div style="display: inline-block;">
+        <img width="350" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lperezcas16&theme=vue&layout=compact&hide_border=true&count_private=true" class="responsive"/>
+    </div>
+</div>
+<br/>
+    
+    
+<img align='right'   width="350" src="https://github-readme-stats.vercel.app/api?username=lperezcas16&show_icons=true&title_color=0FE899&icon_color=7C00DD&text_color=9f9f9f&bg_color=151515"></div>
 
+---
 
 <!-- conect with me -->
 <div align="center">
@@ -21,6 +31,7 @@
 <!-- instagram -->
 <a href="https://www.instagram.com/captivatingracer"><img src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
 </p>
+
 
 
   
