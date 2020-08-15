@@ -1,7 +1,9 @@
+
+
+   <!----mio-->
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <a href="https://github.com/ashwanisng">
-  <img align="center" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lperezcas16&theme=radical&hide=glsl,python=true&title_color=0FE899&icon_color=7C00DD&text_color=9f9f9f&bg_color=151515" />
+        <a href="https://github.com/ashwanisng"> <img width="450" height="224" img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lperezcas16&theme=radical&hide=glsl,python=true&title_color=0FE899&icon_color=7C00DD&text_color=9f9f9f&bg_color=151515" />
 </a>
     </div>
     <br/>
