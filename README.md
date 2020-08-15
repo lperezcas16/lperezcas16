@@ -6,13 +6,11 @@
         <a href="https://github.com/ashwanisng"> <img width="450" height="224" img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lperezcas16&theme=radical&hide=glsl,python=true&title_color=0FE899&icon_color=7C00DD&text_color=9f9f9f&bg_color=151515" />
 </a>
     </div>
-    <br/>
   <img align='center'   width="350" src="https://github-readme-stats.vercel.app/api?username=lperezcas16&show_icons=true&title_color=0FE899&icon_color=7C00DD&text_color=9f9f9f&bg_color=151515"></div>
   <div style="display: inline-block;">
   <a href="https://github.com/ashwanisng">
 </a>
     </div>
-</div>
 
 
 ---
