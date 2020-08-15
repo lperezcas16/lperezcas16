@@ -13,6 +13,8 @@
 </a>
     </div>
 
+<br>
+<br>
 
 ---
 
@@ -32,7 +34,7 @@
 <!-- twitter -->
   <a href="https://twitter.com/LauraPerez199"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter"> </a> &nbsp; &nbsp;
 <!-- instagram -->
-<a href="https://www.instagram.com/captivatingracer"><img src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/lau.sperez/"><img src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
 </p>
   
 
