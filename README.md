@@ -13,11 +13,11 @@ Currently, I'm a fullstack student at Holberton and dream of changing the future
    <!----mio-->
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <a href="https://github.com/lperezcas16"> <img  width="450" height="224" img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lperezcas16&theme=radical&hide=glsl,python=true&title_color=7C00DD&icon_color=7C00DD&text_color=FFFFF&bg_color=000000" /> 
+        <a href="https://github.com/lperezcas16"> <img  width="450" height="224" img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lperezcas16&theme=radical&hide=glsl,python=true&title_color=7C00DD&icon_color=7C00DD&text_color=FFFFFF&bg_color=000000" /> 
 </a>
     </div>
    <br/>
-  <img align='center'   width="350" src="https://github-readme-stats.vercel.app/api?username=lperezcas16&show_icons=true&title_color=0FE899&icon_color=7C00DD&text_color=000000F&bg_colorFFFFF="></div>
+  <img align='center'   width="350" src="https://github-readme-stats.vercel.app/api?username=lperezcas16&show_icons=true&title_color=0FE899&icon_color=7C00DD&text_color=000000F&bg_colorFFFFFF="></div>
   <div style="display: inline-block;">
   <a href="https://github.com/ashwanisng">
 </a>
