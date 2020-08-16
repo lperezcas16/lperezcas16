@@ -1,7 +1,7 @@
 <div align="center"><img src="https://github.com/lperezcas16/lperezcas16/raw/master/image2.gif" width="700" height="300" />
    
 ### Hello World! I'm Laura  👋 🗺
-Currently, I'm studying programming and learning some tools that allow me to analyze complex systems. I consider that digital transformation will be the key to face many future challenges.
+Currently, I'm a fullstack student at Holberton and dream of changing the future of technology with my ideas
 
 <br/>
 
