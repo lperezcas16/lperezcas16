@@ -1,11 +1,11 @@
 <div align="center"><img src="https://github.com/lperezcas16/lperezcas16/raw/master/image2.gif" width="700" height="300" />
    
 ### Hello World! I'm Laura  👋 🗺
-Currently, I'm a fullstack student at Holberton and dream of changing the future of technology with my ideas
+**Currently, I'm a fullstack student at Holberton and dream of changing the future of technology with my ideas**
 
 <br/>
 
-"Art defies technology and technology inspires art" :purple_heart:
+**"Art defies technology and technology inspires art"** :purple_heart:
 
 </div>
 
