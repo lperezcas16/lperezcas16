@@ -1,6 +1,7 @@
 <div align="center"><img src="https://github.com/lperezcas16/lperezcas16/raw/master/image2.gif" width="700" height="300" />
    
-# Hello World! I'm Laura 
+### Hello World! I'm Laura  👋 🗺
+
 </div>
 
    <!----mio-->
