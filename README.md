@@ -17,7 +17,7 @@ Currently, I'm a fullstack student at Holberton and dream of changing the future
 </a>
     </div>
    <br/>
-  <img align='center'   width="350" src="https://github-readme-stats.vercel.app/api?username=lperezcas16&show_icons=true&title_color=0FE899&icon_color=7C00DD&text_color=000000&bg_color=FFFFFF"></div>
+  <img align='center'   width="350" src="https://github-readme-stats.vercel.app/api?username=lperezcas16&show_icons=true&title_color=0FE899&icon_color=7C00DD&text_color=FFFFFF&bg_color=000000"></div>
   <div style="display: inline-block;">
   <a href="https://github.com/ashwanisng">
 </a>
@@ -28,10 +28,10 @@ Currently, I'm a fullstack student at Holberton and dream of changing the future
 
 
 <!-- conect with me -->
-<div  align="center">
-  <h3  align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+<div  align="right">
+  <h3  align="right">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
-<p align="center">
+<p align="right">
 <!-- gmail-->
  <a href="mailto:lau.manu2@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <!-- github -->
