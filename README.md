@@ -2,6 +2,11 @@
    
 ### Hello World! I'm Laura  👋 🗺
 Currently, I'm studying programming and learning some tools that allow me to analyze complex systems. I consider that digital transformation will be the key to face many future challenges.
+
+<br/>
+
+"Art defies technology and technology inspires art" :purple_heart:
+
 </div>
 
 ---
