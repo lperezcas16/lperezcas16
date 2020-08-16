@@ -29,9 +29,9 @@ Currently, I'm a fullstack student at Holberton and dream of changing the future
 
 <!-- conect with me -->
 <div  align="center">
-  <h3  align="right">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3  align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
-<p align="right">
+<p align="center">
 <!-- gmail-->
  <a href="mailto:lau.manu2@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <!-- github -->
