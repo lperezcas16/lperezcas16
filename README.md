@@ -1,4 +1,4 @@
-<div align="center"><img src="image_profile.gif" width="700" height="300" />
+<div align="center"><img src="image2.gif" width="700" height="300" />
 
 <br/>
 
