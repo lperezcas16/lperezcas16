@@ -1,8 +1,8 @@
 <div align="center"><img src="https://github.com/lperezcas16/lperezcas16/raw/master/image2.gif" width="700" height="300" />
+   
+# Hello World! I'm Laura 
+</div>
 
-<br/>
-
-<br/>
    <!----mio-->
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
